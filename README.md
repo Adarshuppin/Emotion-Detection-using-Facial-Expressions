@@ -50,3 +50,9 @@ Install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Dataset
+- Dataset Name: FER-2013
+- Source: Kaggle
+- Dataset Link [FER 2013](https://www.kaggle.com/datasets/msambare/fer2013)
